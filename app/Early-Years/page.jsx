@@ -273,7 +273,7 @@ export default function EarlyYears() {
           </AccordionContent>
         </AccordionItem>
         <AccordionItem value="item-6">
-          <AccordionTrigger>HOW IS ARYA SCHOOL&rsquo;S PERFORMANCE IN EXAMINATIONS?</AccordionTrigger>
+          <AccordionTrigger>HOW IS ARYA SCHOOL&apos;S PERFORMANCE IN EXAMINATIONS?</AccordionTrigger>
           <AccordionContent className="bg-inherit">
             Arya Primary School has a strong track record of excellent performance in national examinations.
           </AccordionContent>
