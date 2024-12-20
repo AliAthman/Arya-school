@@ -255,7 +255,7 @@ export default function EarlyYears() {
           </AccordionContent>
         </AccordionItem>
         <AccordionItem value="item-5">
-          <AccordionTrigger>WHAT IS THE MINIMUM AGE OF ADMISSION FOR EARLY YEAR'S PUPILS?</AccordionTrigger>
+          <AccordionTrigger>WHAT IS THE MINIMUM AGE OF ADMISSION FOR EARLY YEAR&apos;S PUPILS?</AccordionTrigger>
           <AccordionContent className="bg-inherit space-y-3 ">
           <p>The admission age to our reception / playgroup class is age three in the year of enrolment.</p>
 
@@ -273,7 +273,7 @@ export default function EarlyYears() {
           </AccordionContent>
         </AccordionItem>
         <AccordionItem value="item-6">
-          <AccordionTrigger>HOW IS ARYA SCHOOL'S PERFORMANCE IN EXAMINATIONS?</AccordionTrigger>
+          <AccordionTrigger>HOW IS ARYA SCHOOL&rsquo;S PERFORMANCE IN EXAMINATIONS?</AccordionTrigger>
           <AccordionContent className="bg-inherit">
             Arya Primary School has a strong track record of excellent performance in national examinations.
           </AccordionContent>
