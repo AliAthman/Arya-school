@@ -77,16 +77,16 @@ export default function Footer() {
                   height={20}
                   alt="phone icon"
                 /> */}
-                <IconTelephone  className="transition w-10 h-5 mt-1 duration-500 ease-in-out group-hover:text-yellow-600"/>
-                <a href="tel:+254306009652" className="transition duration-500 ease-in-out group-hover:text-yellow-600">
+                <IconTelephone  className="transition w-10 h-5 mt-1 duration-500 ease-in-out group-hover:text-yellow-600 text-[#186c3c]"/>
+                <a href="tel:+254306009652" className="transition duration-500 ease-in-out group-hover:text-yellow-600 text-[#186c3c]">
                   +254 306009652
                 </a>
               </div>
               <div className="flex space-x-6 group transition duration-500 ease-in-out">
                 
-                <IconBxMessageDetail className="w-10 h-5 mt-2 transition duration-500 ease-in-out group-hover:text-yellow-600"/>
+                <IconBxMessageDetail className="w-10 h-5 mt-2 transition text-[#186c3c] duration-500 ease-in-out group-hover:text-yellow-600"/>
 
-                <a href="mailto:info@aryaschool.ke" className="transition duration-500 ease-in-out group-hover:text-yellow-600">
+                <a href="mailto:info@aryaschool.ke" className="transition duration-500 ease-in-out group-hover:text-yellow-600 text-[#186c3c]">
                   info@aryaschool.ke
                 </a>
               </div>
@@ -110,7 +110,7 @@ export default function Footer() {
       </div>
 
       {/* FOOTER COPYRIGHT */}
-      <footer className="p-4 bg-[#eaf3ed] flex flex-col justify-between md:flex-row md:h-[16vh]  h-[32vh] space-y-4 md:items-center md:justify-between mt-auto">
+      <footer className="p-4 bg-[#eaf3ed] flex flex-col justify-between md:flex-row md:h-[16vh]  h-[25vh] space-y-4 md:items-center md:justify-between mt-auto">
         <p>&copy; 2024 Arya Primary School. All rights reserved.</p>
         <p>Design by <strong>Ali</strong></p>
       </footer>

@@ -23,8 +23,8 @@ import {
 
 export default function Contact() {
   return (
-    <div className="bg-white items-center flex pt-8 pb-7 pr-3 pl-3 h-[200vh] md:max-h-min md:justify-center">
-      <Card className="w-[350px] md:w-[500px]">
+    <div className="bg-white items-center flex pt-8 pb-7 pr-3 pl-3 h-[200vh] md:max-h-min md:justify-center ">
+      <Card className="w-[350px] md:w-[500px] ">
         <CardHeader>
           <CardTitle>Get in Touch</CardTitle>
           {/* <CardDescription>Deploy your new project in one-click.</CardDescription> */}
@@ -54,16 +54,15 @@ export default function Contact() {
                     <SelectItem value="next">Early Years Education</SelectItem>
                     <SelectItem value="sveltekit">Junior Secondary</SelectItem>
                     <SelectItem value="astro">Middle School</SelectItem>
-                    <SelectItem value="nuxt">Senior Secondary</SelectItem>
                   </SelectContent>
                 </Select>
               </div>
-              <Textarea placeholder="Additional Message" className="h-80" />
+              <Textarea placeholder="Additional Message" className="h-80 lg:h-32" />
             </div>
           </form>
         </CardContent>
         <CardFooter className="flex justify-between">
-          <Button className="text-green-500 bg-transparent hover:bg-[#f9aa1f] hover:text-black rounded-full ring-1 ring-green-400">
+          <Button className="text-[#186c3c] bg-transparent hover:bg-[#f9aa1f] hover:text-black rounded-full ring-1 ring-[#186c3c] hover:ring-transparent">
             Submit Message
           </Button>
         </CardFooter>

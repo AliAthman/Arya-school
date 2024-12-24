@@ -14,7 +14,7 @@ export default function FAQ() {
         <AccordionItem value="item-1">
           <AccordionTrigger>WHERE IS ARYA SCHOOL LOCATED?</AccordionTrigger>
           <AccordionContent className="bg-inherit">
-            Arya Primary School is located in Nairobi, Kenya.
+            Arya Primary School is located in Mombasa, Kenya.
           </AccordionContent>
         </AccordionItem>
         <AccordionItem value="item-2">

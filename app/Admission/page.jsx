@@ -8,22 +8,20 @@ export default function AdmissionPage() {
       <div className="bg-[url('/element-bg.svg')] bg-cover bg-no-repeat place-content-center h-[50vh] bg-[#f9aa1f]">
         <h1 className="text-[#146e38] font-serif font-extrabold text-2xl pb-14 pl-3">ADMISSION</h1>
       </div>
-      <div className="flex flex-col px-2 pt-16 w-[110vw] space-y-12 h-[100vh] md:flex md:flex-col md:w-full md:h-[40vh]  lg:px-20 lg:h-[60vh]">
+      <div className="flex flex-col px-2 pt-16 w-[110vw] space-y-12 h-[100vh] md:flex md:flex-col md:w-full md:h-[40vh]  lg:px-20 lg:h-[50vh]">
         <div className="space-y-7">
           <h1 className="text-[#146e38] font-extrabold text-2xl px-1">Admission Process</h1>
           <ol className="space-y-3 list-decimal list-inside px-6">
             <li className="font-serif text-[#414f61]">
-              To provide affordable quality integrated education to Muslim children in Kenya
+            The parent books for an interview for the child and states the grade they are interested in
             </li>
             <li className="text-[#414f61] font-serif">
-              To produce well educated students with good Muslim character
+            The Learner takes an assessment test to get an insight on areas they may need support
             </li>
             <li className="text-[#414f61] font-serif">
-              To provide a good learning environment that has a secure Islamic atmosphere
+            If the results of the assessment are satisfactory, the learner is issued with an admission letter
             </li>
-            <li className="text-[#414f61] font-serif">
-              To operate and manage an efficient Islamic institution on a sustainable basis
-            </li>
+            
           </ol>
         </div>
       </div>
@@ -32,16 +30,19 @@ export default function AdmissionPage() {
           <h1 className="text-[#146e38] font-extrabold text-2xl px-1">Admission Requirements</h1>
           <ul className="space-y-3 list-disc list-inside px-6 w-full">
             <li className="font-serif text-[#414f61]">
-              To provide affordable quality integrated education to Muslim children in Kenya
+            A copy of the latest school report form for ongoing learners
             </li>
             <li className="text-[#414f61] font-serif">
-              To produce well educated students with good Muslim character
+            A copy of parent&apos;s / guardians ID Card/ Passport
             </li>
             <li className="text-[#414f61] font-serif">
-              To provide a good learning environment that has a secure Islamic atmosphere
+            A copy of child&apos;s birth certificate
             </li>
             <li className="text-[#414f61] font-serif">
-              To operate and manage an efficient Islamic institution on a sustainable basis
+            A transfer letter from the previous school
+            </li>
+            <li className="text-[#414f61] font-serif">
+            NEMIS number and assessment number for those registered with the Ministry of Education
             </li>
           </ul>
         </div>
