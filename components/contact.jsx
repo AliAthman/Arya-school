@@ -23,7 +23,7 @@ import {
 
 export default function Contact() {
   return (
-    <div className="bg-white items-center flex pt-8 pb-7 pr-3 pl-3 h-[200vh] md:max-h-min md:justify-center ">
+    <div className="bg-white items-center flex pt-8 pb-7 pr-3 pl-3 h-[160vh] md:max-h-min md:justify-center ">
       <Card className="w-[350px] md:w-[500px] ">
         <CardHeader>
           <CardTitle>Get in Touch</CardTitle>
