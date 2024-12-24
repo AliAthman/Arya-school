@@ -100,7 +100,10 @@ export default function Topbar() {
               <Link href="/Curriculum" className="hover:text-yellow-500" onClick={closeMenu}>Curriculum</Link>
               <DropdownMenu>
                 <DropdownMenuTrigger asChild>
-                  <div className="flex items-center justify-between w-full hover:text-yellow-500">
+                  <div className="flex items-center justify-between w-full hover:text-yellow-500" onClick={(e) => {
+                      e.stopPropagation();
+                      toggleDropdown();
+                    }}>
                     <span>Schools</span>
                     <button onClick={(e) => {
                       e.stopPropagation();
