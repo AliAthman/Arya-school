@@ -28,13 +28,13 @@ export default function EarlyYears() {
             {/* CONTAINER 1 */}
             <div className="md:grid md:grid-cols-2">
                     <div className="w-full">
-                        <Image src="/SCHOOL-MANAGER.jpg" width={320} height={213} className="w-full h-56 md:h-96" alt="headteacher"  />
-                        <p className="bg-[#f8ab1f] items-center flex justify-center w-full text-[#146e38] text-xl font-bold p-5 md:border-r-2 ">HEADTEACHER- ASMA MOHAMED SALEH MAALIM</p>
+                        <Image src="/Mathematics-bro.svg" width={320} height={213} className="w-full h-56 md:h-96" alt="headteacher"  />
+                        <p className="bg-[#f8ab1f] items-center flex justify-center w-full text-[#146e38] text-xl font-bold p-5 md:border-r-2 ">HEADTEACHER- ALI ATHMAN BAKARI</p>
                     </div>
                 
                 <div className="w-full">
-                        <Image src="/SCHOOL-MANAGER.jpg" width={320} height={213} className="w-full h-56 md:h-96" alt="headteacher"  />
-                        <p className="bg-[#f8ab1f] items-center flex justify-center w-full md:w-auto text-[#146e38] text-xl font-bold p-5">HEADTEACHER- ASMA MOHAMED SALEH MAALIM</p>
+                        <Image src="/Mathematics-bro.svg" width={320} height={213} className="w-full h-56 md:h-96" alt="headteacher"  />
+                        <p className="bg-[#f8ab1f] items-center flex justify-center w-full md:w-auto text-[#146e38] text-xl font-bold p-5">HEADTEACHER- OMAR GAMBO</p>
                     </div>
                   
             </div>
@@ -44,12 +44,12 @@ export default function EarlyYears() {
                 <div>
                     <p className="text-[#414f61] font-serif text-justify">The NMA Early Years of Education section offers a unique blend of Islamic studies integrated with secular subjects in the Competency-Based Curriculum (CBC). This enables every learner to achieve the 21st century skills and core competencies to become an engaged, empowered and ethical citizen. The section caters for learners in age groups 3 to 9 years which are the play group (reception class) to Grade 3. The section is enriched with child friendly facilities to make learning fun. Learners enjoy a warm and loving relationship with teachers to make school a home away from home. Our aim is to develop learners who are creative, independent thinkers, confident and successful Muslim change makers.</p>
                 </div>
-                <Image  src="/SCHOOL-MANAGER.jpg" width={320} height={213} layout="responsive"  className="w-full h-auto" alt="pic" />
+                <Image  src="/Mathematics-bro.svg" width={320} height={213} layout="responsive"  className="w-full h-auto" alt="pic" />
             </div>
              {/* CONTANER 3 */}
             <div className="py-16 px-3 space-y-8 bg-[#ebf2ed] md:grid md:grid-cols-2 md:gap-6 md:space-y-0 ">
                 <div className="space-">
-                    <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} layout="responsive"  className="w-full h-auto" alt="pic" />
+                    <Image src="/Mathematics-bro.svg" width={350} height={213} layout="responsive"  className="w-full h-auto" alt="pic" />
               
                 </div>
                 <div className="space-y-4">
@@ -65,7 +65,7 @@ export default function EarlyYears() {
                 <p className="bg-[#f8ab1f] items-center flex justify-center w-1/2 text-[#146e38] text-xl font-bold py-4 pr-12 pl-2 rounded-r-3xl">Academics</p>
                     <p className="text-[#414f61] font-serif text-justify">The NMA Early Years of Education section offers a unique blend of Islamic studies integrated with secular subjects in the Competency-Based Curriculum (CBC). This enables every learner to achieve the 21st century skills and core competencies to become an engaged, empowered and ethical citizen. The section caters for learners in age groups 3 to 9 years which are the play group (reception class) to Grade 3. The section is enriched with child friendly facilities to make learning fun. Learners enjoy a warm and loving relationship with teachers to make school a home away from home. Our aim is to develop learners who are creative, independent thinkers, confident and successful Muslim change makers.</p>
                 </div>
-                <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} layout="responsive" className="w-full h-auto" alt="pic" />
+                <Image src="/Mathematics-bro.svg" width={350} height={213} layout="responsive" className="w-full h-auto" alt="pic" />
                 
             </div>
             {/* CONTAINER 5 */}
@@ -102,7 +102,7 @@ export default function EarlyYears() {
              {/* CONTANER 6 */}
              <div className="py-16 px-3 space-y-6 md:grid md:grid-cols-2 md:gap-6 md:space-y-0  ">
                 <div className="md:content-center">
-                    <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-60" alt="pic" />
+                    <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-60" alt="pic" />
                   
                 </div>
                 <div className="space-y-4">
@@ -158,7 +158,7 @@ export default function EarlyYears() {
                 
             <div className="pt-8  space-y-8 ">
                 <div className="space-y-5">
-                    <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
+                    <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
                     <p className="bg-[#f8ab1f] items-center flex justify-center w-1/2 text-[#146e38] text-xl font-bold py-4 pr-12 pl-2 rounded-r-3xl">Meals</p>
                 </div>
                 <div >
@@ -168,7 +168,7 @@ export default function EarlyYears() {
                 </div>
                 <div className="pt-8  space-y-8 ">
                 <div className="space-y-5">
-                    <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
+                    <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
                     <p className="bg-[#f8ab1f] items-center flex justify-center w-1/2 text-[#146e38] text-xl font-bold py-4  pl-4 rounded-r-3xl">In house Counsellor</p>
                 </div>
                 <div>
@@ -178,7 +178,7 @@ export default function EarlyYears() {
                 </div>
                 <div className="pt-8  space-y-8 ">
                 <div className="space-y-5">
-                    <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
+                    <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
                     <p className="bg-[#f8ab1f] items-center flex justify-center w-1/2 text-[#146e38] text-xl font-bold py-4 pr-12 pl-2 rounded-r-3xl">First Aid</p>
                 </div>
                 <div>
@@ -188,7 +188,7 @@ export default function EarlyYears() {
                 </div>
                 <div className="pt-8  space-y-8 ">
                 <div className="space-y-5">
-                    <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
+                    <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
                     <p className="bg-[#f8ab1f] items-center flex justify-center w-1/2 text-[#146e38] text-xl font-bold py-4 pr-12 pl-2 rounded-r-3xl">Peer Talking</p>
                 </div>
                 <div>
@@ -198,7 +198,7 @@ export default function EarlyYears() {
                 </div>
                 <div className="pt-8  space-y-8 ">
                 <div className="space-y-5">
-                    <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
+                    <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
                     <p className="bg-[#f8ab1f] items-center flex justify-center w-1/2 text-[#146e38] text-xl font-bold py-4  pl-4 rounded-r-3xl">School leadership</p>
                 </div>
                 <div>
@@ -212,18 +212,18 @@ export default function EarlyYears() {
             <div className="flex flex-col px-3">
                 <h1 className=" items-center flex justify-center pb-8  text-[#146e38] text-xl font-bold w-full  text-center">Gallery</h1>
                 <div className="space-y-4 md:grid md:grid-cols-3 md:grid-rows-4 md:space-y-0 md:gap-3">
-                <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
-                <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
-                <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
-                <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
-                <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
-                <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
-                <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
-                    <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
-                    <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
-                    <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
-                    <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
-                    <Image src="/SCHOOL-MANAGER.jpg" width={350} height={213} className="w-full h-56" alt="pic" />
+                <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
+                <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
+                <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
+                <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
+                <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
+                <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
+                <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
+                    <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
+                    <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
+                    <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
+                    <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
+                    <Image src="/Mathematics-bro.svg" width={350} height={213} className="w-full h-56" alt="pic" />
                     </div>
             </div>
             {/* FAQ */}
